@@ -1,4 +1,4 @@
 # khushi-rai
-This is my first git repository
-add next line
+This is my first git repository.
+<br>
 Author - Khushi rai 
